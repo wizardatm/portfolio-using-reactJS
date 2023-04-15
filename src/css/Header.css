@@ -1,0 +1,9 @@
+.wrapper {
+  background-color: #1c1826;
+  height: 80px;
+}
+.wrapper .header-wrapper .logo-wrapper img {
+  height: 40px;
+}
+
+/*# sourceMappingURL=Header.css.map */
